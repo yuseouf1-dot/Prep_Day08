@@ -1,7 +1,5 @@
 import turtle
 
-# sides = 3 정삼각형, sides = 4 정사각형, sides = 5 오각형
-
 def draw_polygon(sides):
     titi = turtle.Turtle()
     angle = 360 / sides
